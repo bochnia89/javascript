@@ -1,3 +1,8 @@
+/* ----------------------------------------------
+© Bruna Bochnia
+Estudo JavaScript | Exemplos de saídas / exibições 
+---------------------------------------------- */
+
 // Modos de saída/exibição no JavaScript 
 // Escrevendo em um elemento HTML, usando innerHTML.
 // Escrevendo na saída HTML usando document.write().
